@@ -1,0 +1,39 @@
+# Site settings
+title: Edi Santoso
+description: 'ODOO Developer, Pythonic the software, and drink a tea to enjoying the life'
+url: 'http://repodevs.github.io'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Edi Santoso'
+  email: repodevs@gmail.com
+  twitter_username: repodevs
+  facebook_username: repodevs
+  github_username:  repodevs
+  linkedin_username:  repodevs
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
