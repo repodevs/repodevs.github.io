@@ -1195,6 +1195,13 @@ hr {
 	letter-spacing: 4px;
 	color: #FFF; }
 
+.panel-slogan {
+	margin: 0 0 5px 0;
+	font-size: 1.5em;
+	letter-spacing: 2px;
+	color: #FFF; }
+
+
 .panel-subtitle {
 	font-family: "Roboto Slab", serif;
 	font-size: 1.2em;
