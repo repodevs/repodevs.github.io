@@ -1,7 +1,8 @@
 # Site settings
 title: Edi Santoso
 description: 'ODOO Developer, Pythonic the software, and drink a tea to enjoying the life'
-url: 'http://repodevs.github.io'
+url: 'https://me.repodevs.com'
+enforce_ssl: 'me.repodevs.com'
 baseurl: '/'
 slogan: '( @repodevs )'
 disqus_shortname: 'repodevs'
