@@ -6,7 +6,7 @@ enforce_ssl: 'me.repodevs.com'
 baseurl: '/'
 slogan: '( @repodevs )'
 disqus_shortname: 'repodevs'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-69004355-4'
 
 author:
   name: 'Edi Santoso'
@@ -39,3 +39,6 @@ kramdown:
 
 gems: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
+# Extra Config
+timezone: Asia/Jakarta
