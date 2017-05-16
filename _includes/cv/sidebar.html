@@ -1,0 +1,57 @@
+<!-- Use icons from fontawesome when you are adding new item in the contact list  -->             
+
+                 
+     <div class="sidebar-wrapper">
+            <div class="profile-container">
+                <img class="profile-img" src="{{site.baseurl}}images/{% if site.pic %}{{ site.pic }}{% else %}profile.jpg{% endif %}" alt="profile picture" />
+                <h1 class="name">{% if site.author.name %}{{site.author.name}}{% else %}Edi{% endif %}</h1>
+                <h3 class="tagline">{% if site.tagline %}{{site.tagline}}{% else %}Python & ODOO Developer{% endif %}</h3>
+            </div><!--//profile-container-->
+            
+            <div class="contact-container container-block">
+                <ul class="list-unstyled contact-list">
+                   
+                   {% if site.author.email %}
+                    <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.author.email}}">{{site.author.email}}</a></li>
+                    {% else %}
+                    <li class="email"><i class="fa fa-envelope"></i><a href="mailto:repodevs@gmail.com">repodevs@gmail.com</a></li>
+                    {% endif %}
+<!--                     
+                    {% if site.phone %}
+                    <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
+                    {% else %}
+                    <li class="phone"><i class="fa fa-phone"></i><a href="tel:012 345 6789">012 345 6789</a></li>
+                    {% endif %}
+ -->                    
+                    {% if site.url %}
+                    <li class="website"><i class="fa fa-globe"></i><a href="{{site.url}}" target="_blank">{{site.url}}</a></li>
+                    {% else %}
+                    <li class="website"><i class="fa fa-globe"></i><a href="http://www.repodevs.com" target="_blank">www.repodevs.com</a></li>
+                    {% endif %}
+                    
+                    {% if site.author.linkedin_username %}
+                    <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/{{site.author.linkedin_username}}" target="_blank">{{site.title}}</a></li>
+                    {% else %}
+                    <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/repodevs" target="_blank">Edi Santoso</a></li>
+                    {% endif %}
+                    
+                    {% if site.author.github_username %}
+                    <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.author.github_username}}" target="_blank">github.com/{{site.author.github_username}}</a></li>
+                    {% else %}
+                    <li class="github"><i class="fa fa-github"></i><a href="http://github.com/repodevs" target="_blank">github.com/repodevs</a></li>
+                    {% endif %}
+                    
+                    {% if site.author.twitter_username %}
+                    <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.author.twitter_username}}" target="_blank">@{{site.author.twitter_username}}</a></li>
+                    {% else %}
+                     <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/@repodevs" target="_blank">@repodevs</a></li>
+                    {% endif %}
+                    
+                </ul>
+            </div><!--//contact-container-->
+           {% include cv/education.html %}
+           {% include cv/language.html %}
+           {% include cv/interests.html %}
+        
+            
+        </div><!--//sidebar-wrapper-->
