@@ -2,16 +2,14 @@
 title:  "Tutorial Membuat BOT LINE"
 date:   2017-05-11 16:30:00
 categories: [python]
-tags: [python]
+tags: [python, bot]
 ---
-
-### TUTORIAL MEMBUAT BOT LINE
 
 **LINE** adalah aplikasi chatting yang lahir di negeri sakura Jepang. Hingga detik saat tulisan ini diterbitkan, dari 220 juta penggunanya di seluruh dunia, LINE sudah mengakuisisi tidak kurang dari 90 juta pengguna di indonesia, angka yang lebih besar daripada jumlah pengguna di negaranya sendiri. Peningkatan jumlah pengguna aktif per bulannya mencapai 200% terhitung sejak tahun 2014 hingga 2016 lalu.
 
-#### TUTORIAL MEMBUAT ACCOUNT BOT LINE
+#### **TUTORIAL MEMBUAT ACCOUNT BOT LINE**
 
-Sebelum mulai membuat akun LINE Business dan LINE Bot, Kamu harus membuat akun LINE terlebih dahulu. Silakan instal LINE app di ponselmu dan buat akun LINE bila belum punya, atau login bila sudah punya.
+Sebelum mulai membuat akun LINE Business dan LINE Bot, Kamu harus membuat akun LINE terlebih dahulu. Silakan install LINE app di ponselmu dan buat akun LINE bila belum punya, atau login bila sudah punya.
 
 Setelah itu buka browser di komputermu dan masuk ke halaman [https://business.line.me/id/](https://business.line.me/id/)
 Kemudian klik tombol login di sisi pojok kanan

@@ -99,7 +99,7 @@ Penggunaan bahasa pemrograman python akhirnya ditentukan oleh penggunanya yang d
 
 Pemandangan menyeluruh terhadap tiap unsur atau bagian yang ada secara detail dalam pembuatan suatu sistem aplikasi pada tahap analisa akan memudahkan kita pada tahap pemrograman selanjutnya.
 
-Sumber : http://www.elektroindonesia.com/elektro/li1299a.html 
+*Sumber : http://www.elektroindonesia.com/elektro/li1299a.html*
 
 
 [jekyll]:      http://jekyllrb.com
