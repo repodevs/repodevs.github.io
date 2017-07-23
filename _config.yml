@@ -3,7 +3,7 @@ title: Edi Santoso
 description: 'ODOO Developer, Pythonic the software, and drink a tea to enjoying the life'
 url: 'https://me.repodevs.com'
 enforce_ssl: 'me.repodevs.com'
-baseurl: '/'
+baseurl: ''
 slogan: '( @repodevs )'
 disqus_shortname: 'repodevs'
 google_analytics: 'UA-69004355-4'
