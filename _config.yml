@@ -7,6 +7,7 @@ baseurl: '/'
 slogan: '( @repodevs )'
 disqus_shortname: 'repodevs'
 google_analytics: 'UA-69004355-4'
+img_url: '/assets/images'
 
 author:
   name: 'Edi Santoso'
