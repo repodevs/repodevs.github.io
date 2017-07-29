@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/repodevs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://me.repodevs.com
+  * I am repodevs (https://keybase.io/repodevs) on keybase.
+  * I have a public key with fingerprint 32C0 64EA 1713 F990 2ACF  6B2B 96A3 FF2F 38AF 394C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101858966cc3169e32611707f31554a1fed5322f943c31a64d7d296149f110400800a",
+      "fingerprint": "32c064ea1713f9902acf6b2b96a3ff2f38af394c",
+      "host": "keybase.io",
+      "key_id": "96a3ff2f38af394c",
+      "kid": "0101858966cc3169e32611707f31554a1fed5322f943c31a64d7d296149f110400800a",
+      "uid": "7f8717dee786150b87daf6bfe7d20019",
+      "username": "repodevs"
+    },
+    "merkle_root": {
+      "ctime": 1501327112,
+      "hash_meta": "0f693970866e888439173ad75054cd33bcfb44ec5cd2a478c242db7476545edf",
+      "seqno": 1289487
+    },
+    "revoke": {
+      "sig_ids": [
+        "9d9efc0ccf84c0e47894aba578d921636c561dcc32581940f40920eaa0df5b330f"
+      ]
+    },
+    "service": {
+      "hostname": "me.repodevs.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1501327253,
+  "expire_in": 157680000,
+  "prev": "25afbcf63854829c5e0225b0ca3e107e2cc1c7f230e310a5efa99b0b0b0efcc3",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMK4AnicrZN7aFZlHMffaVoulqJJJIzkzDDwbXvul4Fpk4juLhjYvLw857lsh3c7
+5905796c24JUaF0wk3UjpVRChBhFBVE5Y0g36Tr/eRWyQiSi/hGiic56zlAo6M84
+fzycc76/7+/7+zzPc6JpfqGxYfzjtPjFI8HahpNTQ4OFx0aSF4eDMDFDQftwULZz
+i+0zNquWypEJ2gMAARRUSMa0xpBJixGDkAPuMKSUKOisoRghJwn2AsWI4QZJBol0
+EAICgABABcXARXGPTStpFFe9LUYaMGIV5BA7KQFS2rEQhZIp7BxyWCiHJdG+sDfJ
+8gofLlSZbY0S/82/lObi/Yf+f849OGfHneCQG2u5YJCCUHCjfGBnfREAUObCzKax
+6rdendpKYmwtC0aLQb9Ny322lCZJNYerq1Eu8R4QIw4h8gOqrLfUb6sqj+2YxJID
+wZgVQhAsIcfKcAoo0QbjULuQEKupNkgRLjQiyISccEYJtcb5HJkdiBPfAQlJBPcJ
+UltLyjZvnkU9HlsWtG8OpJHWaaC1E0QD660kUaGiXBiJIMNMUwaNZ4eogJIAR4BE
+wCoFjKMhxsAFW0fzZmkt0nPm+T5dnb/ftl5D0KqTfh+qkibVRCd9/mdvtVrJ2nM0
+1aFKrn7chqWrPqUwio0/KL6iZtMsSmI/iFf+mxqiuBjY7ZUotaUoV1DO/G4BkPex
+NW+JqHIeFcOCEoGkphYgREOgFbYQcIu0hpo7hIHFEChqnZIyBPnjqWj8D4zC51Q9
+3tPDi1V1MLXB6NQnW64rNDQWFi6Yl9+gQuOiJdfu1dtPXT97647pEtOnPjw+W5Pf
+d51urm97c1n3hY2dK57evPOvu+J1MzPDJzd0rXq+uObYzWMje35vuXdisuHiStp1
+ZeX0B+cOftrUc7G++/2lvz6zeiRb8ON05+U9tPDNaze0dpuP4tUND7Y9+XnHH3fc
+/dzxCXbhiRWbtt706LIt9eFzZ3awV1teL/7wwPaFe48cerae/nT+Sx1fWfpu5/z1
+amr/vnLLjZ99u+EdvuvE8lVnb/l6Z/OBO2+7/9Dh/QPzJifqXU2XNq4/2rz7l5dO
+dbx8/jS99NtY2+W3ml2b6H3jmHnohW27/oyWvzKz776xgz/PLl7bvfir+MjZ7w6f
+GXhvzT2T68Zv3xQ+3BKGe8drizrK8d+Pi3xS
+=7opx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/repodevs
+
+==================================================================
+
