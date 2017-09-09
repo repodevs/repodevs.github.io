@@ -1,8 +1,8 @@
 ---
 title:  "Tutorial Android CI dengan GitLab"
 date: 2017-09-09 14:22
-categories: [competition]
-tags: [competition, sysadmin, servering]
+categories: [android]
+tags: [CI, android, gitlab]
 ---
 
 Assalamu'alaykum Warohmatullahi Wabarakatuh
