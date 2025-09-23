@@ -6,3 +6,9 @@ deps:
 
 start:
 	@bundle exec jekyll serve --watch
+
+clean:
+	rm -f Gemfile.lock
+
+update:
+	bundle update
